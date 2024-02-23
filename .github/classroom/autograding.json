@@ -1,0 +1,34 @@
+{
+  "tests": [
+    {
+      "name": "Hello world test 3",
+      "setup": "",
+      "run": "python ./main.py",
+      "input": "",
+      "output": "Hello Software Development",
+      "comparison": "exact",
+      "timeout": 5,
+      "points": 5
+    },
+    {
+      "name": "Hello world test 2",
+      "setup": "",
+      "run": "./tests/run1.sh",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 5
+    },
+    {
+      "name": "Hello world test 3",
+      "setup": "",
+      "run": "python ./main.py",
+      "input": "",
+      "output": "Hello Software Development",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 5
+    }
+  ]
+}
